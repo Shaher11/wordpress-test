@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'test_project' );
 
 /** Database username */
-define( 'DB_USER', '[add your username]' );
+define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '[add your password]' );
+define( 'DB_PASSWORD', 'root' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
