@@ -13,7 +13,6 @@ case study to make contact form using COntact form 7 plugin and gmailAPi
 Some basic Installation commands are:
 ```
 git clone [Repo url]
-
 ```
 ### Configrations
 
