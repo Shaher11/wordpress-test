@@ -1,6 +1,6 @@
 ## Wordpress test project
 
-case study to make contact form using COntact form 7 plugin and gmailAPi
+Case study to make contact form using Contact form 7 plugin and gmailAPi
 
 ### Technologies
 
